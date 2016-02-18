@@ -1,0 +1,5 @@
+library(shiny)
+library(ggvis)
+library(magrittr)
+library(muStat)
+library(dplyr)
